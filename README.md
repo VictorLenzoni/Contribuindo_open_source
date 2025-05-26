@@ -1,1 +1,2 @@
 # Contribuindo_open_source
+Em sistemas que lidam com listas de tarefas ou fluxos de atividades, é comum que o usuário nem sempre esteja pronto ou disposto a realizar uma determinada atividade no momento em que ela aparece. Seja por falta de informações, prioridade momentânea ou simplesmente por não se sentir preparado, é essencial que o sistema ofereça uma forma clara e funcional de ignorar uma tarefa temporariamente. 
